@@ -1,0 +1,39 @@
+{
+  "name": "angular2-quickstart",
+  "version": "1.0.0",
+  "description": "Proyecto sencillo para conocer lo nuevo que trae angular2 con typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandervivas/angular2-quickstart.git"
+  },
+  "keywords": [
+    "angular2",
+    "typescript"
+  ],
+  "author": "Alexander Vivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandervivas/angular2-quickstart/issues"
+  },
+  "homepage": "https://github.com/alexandervivas/angular2-quickstart#readme",
+  "dependencies": {
+    "@angular/common": "^2.0.0-rc.5",
+    "@angular/compiler": "^2.0.0-rc.5",
+    "@angular/core": "^2.0.0-rc.5",
+    "@angular/http": "^2.0.0-rc.5",
+    "@angular/platform-browser": "^2.0.0-rc.5",
+    "@angular/platform-browser-dynamic": "^2.0.0-rc.5",
+    "@angular/router": "^3.0.0-rc.1",
+    "@angular/router-deprecated": "^2.0.0-rc.2",
+    "bootstrap": "^3.3.7",
+    "es6-shim": "^0.35.1",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "5.0.0-beta.6",
+    "systemjs": "^0.19.37",
+    "zone.js": "^0.6.17"
+  }
+}
