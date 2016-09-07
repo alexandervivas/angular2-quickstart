@@ -6,6 +6,8 @@
         "module": "system",
         "moduleResolution": "node",
         "noImplicitAny": false,
+        "outDir": "built",
+        "rootDir": "typescript",
         "sourceMap": false
     },
     "exclude": [
